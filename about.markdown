@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm Noel Rivas, software engineer.
-
-Built with [Jekyll](https://jekyllrb.com)
+I'm Noel Rivas. I write about software development, wild criters found in the digital realm, and surrounding phenomena.
