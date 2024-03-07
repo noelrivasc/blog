@@ -31,7 +31,9 @@ Blog post on the anatomy of Promises.
 	* Promisifying of regular functions with async and await
 
 The Then and other callback-receiving channels
-Ths State
+The State
+
+Hm. I would like to get a preview but apparently that is not possible with GH.
 
 ## Reference Material:
 - Simplest implementation: https://www.promisejs.org/implementing/ 
