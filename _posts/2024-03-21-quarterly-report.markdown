@@ -5,11 +5,11 @@ date:   2024-03-21 07:11:22 -0600
 categories:
 ---
 
-My job satisfaction is in constant flux: some days it feels like it's a good position where I'm learning a lot; other days it feels like a constant swim in overwhelming chaos. Both hold some truth, so I'd like to have a longer term, more systematic way to reflect on it, so I can make better career decisions.
+My job satisfaction is in constant flux: some days it feels like it's a good position where I'm learning a lot; other days it feels like a constant swim in overwhelming chaos. Both hold some truth, so I'd like to have a longer term, more systematic way to reflect on it to make better career decisions.
 
 Businesses employ quarterly finance reports to assess the state of the company. I'll use my quarterly report to assess my current job, not just in terms of economic output but also in terms of satisfaction and career boosting.
 
-I won't the results to be _objective_ (eww!) because this is far from it, but at least I'll be able to look back to this and reflect back on the values I used to evaluate my job —and the results it got.
+I won't the results to be _objective_ (eww!) because this is far from it, but at least I'll be able to look back to this and reflect on the values I used to evaluate my job —and the results it got.
 
 ### Index
 - [Report Structure](#report-structure)
@@ -35,17 +35,15 @@ With the exception of money surplus they are all tricky to measure, but I'll do 
 
 ## Money Surplus
 
-This is the closest thing to profit in the traditional sense: the money that I get to keep from my salary after paying for my life expenses.
-
-The score should answer the question:
-
 > How close do I get to keeping an extra month of life expenses, after the month ends?
+
+This is the closest thing to profit in the traditional sense: the money that I get to keep from my salary after paying for my life expenses.
 
 Formula: `((income - expenses) / expenses) * 100`
 
 So, for example: if I earn $10,000 per month and my monthly cost of living is $8,000, that means that I get to keep $2,000 after expenses. The score would be 25 out of 100.
 
-The tricky part of this one is that the score depends on my life choices too, not just the job. That's fine because, in the end, how adequate a job is for me depends on my choices and behavior, not just the job in isolation. So, as my choices and situation change, the adequacy of my job will also change.
+The tricky part of this one is that the score depends on life choices too, not just the job. That's fine because, in the end, how adequate a job is for me depends on my choices and behavior. The job does not exist in isolation, so as my choices and situation change, the adequacy of the job will also change.
 
 What counts as a reasonable expense is subjective to some degree. Some businesses allow employees to expense lavish dinners with clients; others skimp on paperclips. Similarly, some people consider frequent trips to Paris a necessity, while others may see slightly expensive cheese as decadent luxury. 
 
