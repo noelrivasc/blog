@@ -1,7 +1,7 @@
 # Setup
 title:               "Noel Rivas"
 tagline:             "Software developer"
-url:                 http://noelr.dev
+url:                 https://noelr.dev
 baseurl:             ''
 paginate:            5
 permalink:           pretty
