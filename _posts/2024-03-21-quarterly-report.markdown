@@ -88,4 +88,4 @@ This one is subjective, too; while money is numeric by nature, creative energy i
 |Skill Acquisition|70 / 100|
 |Vitality Surplus|30 / 100|
 
-**Total score: 276 / 400**
+**Total score: 180 out of 400**
