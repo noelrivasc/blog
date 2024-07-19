@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinking jigs
+title: Jigs for thinking
 date: 2024-07-18 22:59 -0600
 ---
 
