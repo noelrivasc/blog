@@ -12,6 +12,4 @@ There is another thing: once the work is finished, the thinking is seldom really
 
 For example, I may pay attention all day long to the implementation of a certain message queue. Once I close the computer, my mind keeps going around the same issue, even if I don't want to. I may wake up the next day thinking about details I omitted earlier —this happened today.
 
-I don't resent devoting my attention to work: it brings me interesting problems. But I don't want to devote my full attention to it either.
-
-The best intervention I have found so far to stop the inertia of work ideas is meditation.
+I don't resent devoting my attention to work: it brings me interesting problems and pays reasonably —which doesn't mean I want to devote my full attention to it either.
