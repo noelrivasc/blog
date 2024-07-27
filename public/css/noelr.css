@@ -4,7 +4,7 @@
   padding: 1.5em;
   margin-bottom: 4em;
   background-color: #efefef;
-  box-shadow: 0 0 30px #ccc, inset 2px 2px 5px white, inset -2px -2px 5px white;
+  box-shadow: 0 20px 50px #ccc, inset 2px 2px 5px rgba(255, 255, 255, .25), inset -2px -2px 5px rgba(255, 255, 255, .25);
 }
 
 .posts .post {
