@@ -1,0 +1,26 @@
+.presentation {
+  border: 1px solid #999;
+  border-radius: 2px;
+  padding: 1.5em;
+  margin-bottom: 4em;
+  background-color: #efefef;
+  box-shadow: 0 0 30px #ccc, inset 2px 2px 5px white, inset -2px -2px 5px white;
+}
+
+.posts .post {
+  margin-bottom: 3em;
+}
+
+.post-title a {
+  color: #268bd2;
+  text-shadow: 0px 0px 15px #b7d7eb;
+}
+
+.post-date {
+  margin-bottom: .5em;
+  font-size: 1em;
+}
+
+.post-summary {
+  margin-bottom: 0;
+}

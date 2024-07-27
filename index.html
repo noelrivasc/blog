@@ -5,12 +5,18 @@ title: Home
 
 <div class="presentation">
   <h1>Hey, I'm Noel</h1>
-  <p>I'm writing about software engineering, the web, and understanding my own distracted mind.</p>
+  <p>I write code and I get distracted. A lot.</p>
+  <p>There are too many things going on in my head, and in the screens swarming around it. Often, that doesn't feel good.</p>
+  <p>These are notes about reclaiming my focus and finding satisfying ways to use my own brain.</p>
+  <p>Hopefully, some those notes are useful to you, too.</p>
+  <p>blog@noelr.dev</p>
+  
 </div>
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  {% if post.draft != true %}
+  <div class="post posts-item">
     <h2 class="post-title">
       <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
@@ -18,10 +24,15 @@ title: Home
     </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% if post.summary %} 
+    <p class="post-summary">{{ post.summary }}</p>
+    {% endif %}
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 
+<!--
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
@@ -38,3 +49,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
