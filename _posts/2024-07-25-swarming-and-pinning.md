@@ -2,6 +2,7 @@
 layout: post
 title: Swarming and pinning
 date: 2024-07-25 17:53 -0600
+summary: Sometimes it's time to let ideas buzz around; sometimes it's time to catch them and organize them.
 ---
 
 Sitting in front of a blank page (text document, diagram, whatever it is) is a great way to get stuck. For me, at least.

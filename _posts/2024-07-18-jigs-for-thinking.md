@@ -2,6 +2,7 @@
 layout: post
 title: Jigs for thinking
 date: 2024-07-18 22:59 -0600
+summary: DIY devices to help the brain.
 ---
 
 Today, I had one of those software problems that involve multiple moving parts and was wondering about the best way to test all relevant cases.

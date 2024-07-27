@@ -2,7 +2,7 @@
 layout: post
 title:  "My Quarterly Report — Evaluating my Job"
 date:   2024-03-21 07:11:22 -0600
-categories:
+summary: "First attempt at doing a job satisfaction evaluation. The results are kind of... meh."
 ---
 
 My job satisfaction is in constant flux: some days it feels like it's a good position where I'm learning a lot; other days it feels like a constant swim in overwhelming chaos. Both hold some truth, so I'd like to have a longer term, more systematic way to reflect on it to make better career decisions.

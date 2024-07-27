@@ -2,7 +2,7 @@
 layout: post
 title:  "Freediving Lessons for a Career in Software"
 date:   2024-03-26 16:30:22 -0600
-categories: career misc
+summary: "Two things I've learned from freediving: reach a stable point, and reframe the experience."
 ---
 
 This post is about two things I learned by doing freediving that have had a positive impact in my career as a software developer.

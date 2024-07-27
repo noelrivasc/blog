@@ -2,6 +2,7 @@
 layout: post
 title: A break from thinking
 date: 2024-07-17 21:37 -0600
+summary: I tried this clickbaity thing for 30 days. Here's what happened...
 ---
 
 Sometimes there's too much going on in my head.

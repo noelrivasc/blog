@@ -2,6 +2,7 @@
 layout: post
 title: The hand of a thinking body
 date: 2024-07-15 21:17 -0600
+summary: Get the body some comfort to let the brain do its thing.
 ---
 
 Last year, my right hand started hurting. I'd wake up with a trigger thumb, and some days the base of my thumb would feel sore.

@@ -2,6 +2,7 @@
 layout: post
 title: Careful work is faster —and way more enjoyable
 date: 2024-07-11 16:59 -0600
+summary: Start with understanding; don't waste time to trying things in haste.
 ---
 
 I spent about three hours chasing a bug today. You've been there: following up the trail of some mysterious failure; trying to repeat what you did before to replicate the error. Failing, trying again, narrowing down the possibilities. Getting a small hit of dopamine each time you confirm a part of the problem.

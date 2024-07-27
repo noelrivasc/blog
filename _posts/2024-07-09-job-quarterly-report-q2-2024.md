@@ -2,6 +2,7 @@
 layout: post
 title: Job Quarterly report Q2 2024
 date: 2024-07-09 07:40 -0600
+summary: "An update to my job satisfaction report. Spoiler: stays pretty much the same."
 ---
 
 Back in March, I did [my first job quarterly report](/2024/03/21/quarterly-report); this is an update for Q2.

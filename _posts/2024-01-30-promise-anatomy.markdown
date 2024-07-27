@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Anatomy of the Promise Organism"
+title:  "Anatomy of the Promise Organism - DRAFT"
 date:   2024-01-30 07:11:22 -0600
-categories: digital naturalism
+categories: "digital naturalism"
+draft: true
 ---
 
 ## Anatomy of the Promise Organism
