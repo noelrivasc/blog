@@ -1,7 +1,7 @@
 # Setup
-title:               "Noel R"
-tagline:             "I write code and get distracted. A lot."
-url:                 https://noelr.dev
+title:               "The Focus Quest"
+tagline:             "Exploring distraction to find focus."
+url:                 https://thefocus.quest
 baseurl:             ''
 paginate:            20
 permalink:           pretty

@@ -3,10 +3,10 @@ layout: post
 title: 'Tool: house work'
 date: 2024-07-30 21:30 -0600
 categories: tools
-summary: House work as a means to cool the mind off and regain focus.
+summary: House work as a means to cool the mind off.
 ---
 
-_House work as a means to cool the mind off and regain focus._
+_House work as a means to cool the mind off and reclaim attention._
 
 Attention —or at least the way I experience attention— is a funny phenomenon. It feels as if it were a physical thing, an object that moves in and out of my body.
 
