@@ -3,13 +3,17 @@ layout: default
 title: Home
 ---
 
-<div class="presentation">
+<script type="module" language="javascript" src="{{ '/public/js/circles.js' | absolute_url }}"></script>
+
+<div class="presentation" style="position: relative">
   <h3>The Focus Quest is:</h3>
   <p>An attempt to make work pleasant, do it in less time, and enjoy life.</p>
   <p>It's my stream of notes on distraction, attention and intention, and how that all plays with knowledge work —software development in particular.</p>
   <p>Also, a collection of <a href="/tools">tools</a> I've found useful.</p>
   <p>Here. Have a seat.</p>
   <p>Noel Rivas — blog at noelr.dev</p>
+
+  <div id="circles-container" style="width: 200px; height: 200px; position: absolute; bottom: 0; right: 0;"></div>
 </div>
 
 <div class="posts">
