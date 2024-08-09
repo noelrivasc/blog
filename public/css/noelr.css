@@ -56,3 +56,17 @@
 .tools-sidebar h3 {
   color: #efefef;
 }
+
+.post h1.post-title {
+  color: #9ab;
+}
+
+.post p,
+.post ul,
+.post ul li {
+  color: #9ab;
+}
+
+.related h2 {
+  color: #9ab;
+}
