@@ -3,14 +3,23 @@ layout: default
 title: Home
 ---
 
-<div class="presentation">
-  <h1>Hey, I'm Noel</h1>
-  <p>I'm writing about software engineering, the web, and understanding my own distracted mind.</p>
+<script type="module" language="javascript" src="{{ '/public/js/circles.js' | absolute_url }}"></script>
+
+<div class="presentation" style="position: relative">
+  <h3>The Focus Quest is:</h3>
+  <p>An attempt to make work pleasant, do it in less time, and enjoy life.</p>
+  <p>A stream of notes exploring distraction, attention and intention, and how that all plays with knowledge work —software development in particular.</p>
+  <p>Also, a collection of <a href="/tools">tools</a> I've found useful.</p>
+  <p>Here. Have a seat.</p>
+  <p>Noel Rivas — blog at noelr.dev</p>
+
+  <div id="circles-container" style="width: 200px; height: 200px; position: absolute; bottom: 0; right: 0;"></div>
 </div>
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  {% if post.draft != true %}
+  <div class="post posts-item">
     <h2 class="post-title">
       <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
@@ -18,10 +27,15 @@ title: Home
     </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% if post.summary %} 
+    <p class="post-summary">{{ post.summary }}</p>
+    {% endif %}
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 
+<!--
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
@@ -38,3 +52,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->

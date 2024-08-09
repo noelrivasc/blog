@@ -2,6 +2,7 @@
 layout: post
 title: The delicate business of selling one's attention
 date: 2024-07-25 08:44 -0600
+summary: It's a funny thing, getting paid to think.
 ---
 
 If I worked in a factory, say, sewing pants, my body would be bound to certain movements but my thought could wander through landscapes of ideas. Or so I imagine it would happen.

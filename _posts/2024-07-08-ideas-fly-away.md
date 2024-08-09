@@ -2,6 +2,7 @@
 layout: post
 title: Ideas fly away
 date: 2024-07-08 19:58 -0600
+summary: On a method to catch ephemeral ideas.
 ---
 
 I have better ideas when I'm away from the computer or notebook —when I walk, do pottery or do the dishes. The thing is that those ideas are often lost because I don't capture them immediately. I may find a solution to a problem —say, how to approach a conversation on the risks of an upcoming project— but if I don't capture it soon, it can vanish just as it appeared.

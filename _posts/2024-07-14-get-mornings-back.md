@@ -2,9 +2,10 @@
 layout: post
 title: Get mornings back
 date: 2024-07-14 18:53 -0600
+summary: Mornings are pretty. It's a shame to lose most of them to screen time.
 ---
 
-[A few days ago](/2024/07/11/a-good-morning-walk/) I started the day different than others: with a very long walk. My body forced the decision but since then I've been thinking about how much I miss mornings.
+[A few days ago](/2024/07/10/a-good-morning-walk/) I started the day different than others: with a very long walk. My body forced the decision but since then I've been thinking about how much I miss mornings.
 
 Before, when I worked on my own, many times I went out early to walk, have breakfast and coffee, and read or work on something that required thinking and looking at the horizon. I miss those days; I miss the kind of deep thinking that I can afford between sips of a good machiatto.
 

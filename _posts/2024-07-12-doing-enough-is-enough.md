@@ -2,6 +2,7 @@
 layout: post
 title: Doing enough is enough
 date: 2024-07-12 17:38 -0600
+summary: I don't have to do everything, or do it today, or do it perfectly.
 ---
 
 Optimism is sometimes the enemy of slow, careful work. For example, when it leads to me adding too many items to the day's plan, only to feel frustrated later.

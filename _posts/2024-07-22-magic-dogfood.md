@@ -2,6 +2,7 @@
 layout: post
 title: Magic dog food
 date: 2024-07-22 21:31 -0600
+summary: It's not anxiety; it's the effects of magic.
 ---
 
 Back in March I wrote about framing the pain that is felt during adaptation (when training the body or the mind) [not as pain but as "the effects of magic"](/career/misc/2024/03/26/freediving-lessons/). The idea is to turn a negative sensation into one that is perceived positively by thinking about it in a different way.

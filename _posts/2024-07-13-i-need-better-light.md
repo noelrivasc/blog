@@ -2,6 +2,7 @@
 layout: post
 title: I need better light
 date: 2024-07-13 12:11 -0600
+summary: A well lit office lifts my mood.
 ---
 
 It may be dumb, but I just realized this: the lighting at my home office sucks.

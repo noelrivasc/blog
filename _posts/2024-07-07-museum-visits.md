@@ -2,6 +2,7 @@
 layout: post
 title: Museum Visits
 date: 2024-07-07 20:16 -0600
+summary: On finding inspiration and feeding curiosity.
 ---
 
 I went to the museum today. Man, I really like that experience.
