@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Tool: house work'
+title: 'Tool: manual work'
 date: 2024-07-30 21:30 -0600
 categories: tools
-summary: House work as a means to cool the mind off.
+summary: Manual work as a means to cool the mind off.
 ---
 
-_House work as a means to cool the mind off and reclaim attention._
+_Manual work as a means to cool the mind off and reclaim attention._
 
 Attention —or at least the way I experience attention— is a funny phenomenon. It feels as if it were a physical thing, an object that moves in and out of my body.
 
@@ -20,8 +20,9 @@ A few examples:
 
 - Do the dishes (there are _always_ dishes)
 - Remove weeds from my ferns and plants
-- Tidy up my office or other space around the house
-- Get groceries
 - Cook
+- Do pottery
+- Brew beer! 
 
-Usually those are brief interventions; quick activities that I find useful to cool the brain off before resuming some creative work. 
+Some of those (brewing beer, notably) take a long time, but others can be brief interventions to reconnnect with the tangible world.
+
