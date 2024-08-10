@@ -1,30 +1,84 @@
-.masthead .masthead-title a {
-  color: #789;
+:root {
+  /* RGB Component Variables */
+  --very-dark-gray-components: 17, 17, 21;
+  --extra-dark-gray-components: 26, 26, 30;
+  --darker-gray-components: 34, 34, 42;
+  --dark-gray-components: 51, 51, 61;
+  --medium-gray-components: 68, 68, 76;
+  --light-gray-components: 102, 102, 111;
+  --lighter-gray-components: 136, 136, 143;
+  --very-light-gray-components: 208, 208, 214;
+
+  --deep-blue-components: 0, 17, 34;
+  --darker-blue-components: 0, 34, 68;
+  --dark-blue-components: 0, 51, 102;
+  --medium-blue-components: 0, 68, 136;
+  --light-blue-components: 0, 102, 204;
+  --lighter-blue-components: 102, 153, 204;
+  --very-light-blue-components: 204, 221, 255;
+
+  /* Color Variables using Components */
+  --very-dark-gray: rgb(var(--very-dark-gray-components));
+  --extra-dark-gray: rgb(var(--extra-dark-gray-components));
+  --darker-gray: rgb(var(--darker-gray-components));
+  --dark-gray: rgb(var(--dark-gray-components));
+  --medium-gray: rgb(var(--medium-gray-components));
+  --light-gray: rgb(var(--light-gray-components));
+  --lighter-gray: rgb(var(--lighter-gray-components));
+  --very-light-gray: rgb(var(--very-light-gray-components));
+
+  --deep-blue: rgb(var(--deep-blue-components));
+  --darker-blue: rgb(var(--darker-blue-components));
+  --dark-blue: rgb(var(--dark-blue-components));
+  --medium-blue: rgb(var(--medium-blue-components));
+  --light-blue: rgb(var(--light-blue-components));
+  --lighter-blue: rgb(var(--lighter-blue-components));
+  --very-light-blue: rgb(var(--very-light-blue-components));
 }
 
-.masthead .masthead-title small {
-  color: #567;
+html, body {
+  height: 100%;
+}
+
+body {
+  background: var(--very-dark-gray);
 }
 
 .wrap {
-  background-color: rgb(32, 32, 32);
+  min-height: 100%;
+  background: var(--very-dark-gray);
+  background-image: url("/public/img/noise.png"), radial-gradient(circle, var(--extra-dark-gray) 0%, var(--very-dark-gray) 100%);
+}
+
+.masthead {
+  border-bottom: 1px solid #555566;
+}
+
+.masthead .masthead-title a {
+  color: var(--very-light-gray);
+}
+
+.masthead .masthead-title small {
+  color: var(--lighter-gray);
 }
 
 .presentation {
-  border: 1px solid rgba(230, 240, 255, .5);
+  position: relative;
+  border: 1px solid var(--lighter-gray);
   border-radius: 2px;
   padding: 1.5em;
+  padding-bottom: 3em;
   margin-bottom: 4em;
-  background-color: rgb(32, 32, 32);
-  box-shadow: 0 20px 50px rgba(120, 180, 255, .15), inset 3px 3px 5px rgba(160, 200, 255, .2), inset -3px -3px 5px rgba(160, 200, 255, .2);
+  background-color: rgb(var(--darker-gray-components), 0.5);
+  box-shadow: 0 20px 75px rgba(var(--very-light-blue-components), .15), inset 3px 3px 5px rgba(var(--very-light-blue-components), .2), inset -3px -3px 5px rgba(var(--very-light-blue-components), .2);
 }
 
 .presentation h3 {
-  color: #9ab;
+  color: var(--very-light-blue);
 }
 
 .presentation p {
-  color: #89a;
+  color: rgb(var(--very-light-gray-components), 0.85);
 }
 
 .posts {
@@ -36,17 +90,30 @@
 }
 
 .post-title a {
-  color: #268bd2;
+  color: var(--lighter-blue);
 }
 
 .post-date {
   margin-bottom: .5em;
   font-size: 1em;
+  color: var(--lighter-gray);
 }
 
-.post-summary {
+.post .post-summary {
   margin-bottom: 0;
-  color: #678;
+  color: var(--lighter-gray);
+}
+
+.sidebar-toggle {
+  background-color: var(--medium-gray);
+}
+
+.sidebar-toggle:before {
+  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='rgb(125, 125, 132, 1)' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat;
+}
+
+.sidebar {
+  background-color: var(--darker-gray);
 }
 
 .tools-sidebar {
@@ -54,19 +121,32 @@
 }
 
 .tools-sidebar h3 {
-  color: #efefef;
+  color: var(--lighter-blue);
 }
 
+.page h1.page-title,
 .post h1.post-title {
-  color: #9ab;
+  color: var(--very-light-blue);
 }
 
+.page p,
+.page ul,
+.page ul li,
 .post p,
 .post ul,
 .post ul li {
-  color: #9ab;
+  color: var(--lighter-gray);
+}
+
+.page a,
+.post a {
+  color: var(--lighter-blue);
 }
 
 .related h2 {
-  color: #9ab;
+  color: var(--very-light-blue);
+}
+
+.related a {
+  color: var(--lighter-blue);
 }
