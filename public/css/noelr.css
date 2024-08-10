@@ -7,7 +7,7 @@
   --medium-gray-components: 68, 68, 76;
   --light-gray-components: 102, 102, 111;
   --lighter-gray-components: 136, 136, 143;
-  --very-light-gray-components: 208, 208, 214;
+  --very-light-gray-components: 190, 190, 205;
 
   --deep-blue-components: 0, 17, 34;
   --darker-blue-components: 0, 34, 68;
@@ -135,7 +135,7 @@ body {
 .post p,
 .post ul,
 .post ul li {
-  color: var(--lighter-gray);
+  color: var(--very-light-gray);
 }
 
 .page a,
