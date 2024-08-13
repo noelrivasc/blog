@@ -17,20 +17,23 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  {% if post.draft != true %}
-  <div class="post posts-item">
-    <h2 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h2>
+    {% if post.draft != true %}
+      {% if post.categories contains "tools" %}
+      {% else %}
+      <div class="post posts-item">
+        <h2 class="post-title">
+          <a href="{{ post.url | absolute_url }}">
+            {{ post.title }}
+          </a>
+        </h2>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    {% if post.summary %} 
-    <p class="post-summary">{{ post.summary }}</p>
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+        {% if post.summary %} 
+        <p class="post-summary">{{ post.summary }}</p>
+        {% endif %}
+      </div>
+      {% endif %}
     {% endif %}
-  </div>
-  {% endif %}
   {% endfor %}
 </div>
 
