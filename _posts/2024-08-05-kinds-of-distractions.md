@@ -2,6 +2,7 @@
 layout: post
 title: Kinds of distractions
 date: 2024-08-05 22:09 -0600
+summary: The taxonomy is simple: there are desires, aversions and interruptions.
 ---
 
 Distractions fall into three categories: desires, aversions and interruptions.

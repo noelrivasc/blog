@@ -2,6 +2,7 @@
 layout: post
 title: Attention gym
 date: 2024-08-05 22:26 -0600
+summary: Attention can be trained, like a muscle
 ---
 
 It seems that the antidote to distraction is training one's attention.
