@@ -9,7 +9,7 @@ My job satisfaction is in constant flux: some days it feels like it's a good pos
 
 Businesses employ quarterly finance reports to assess the state of the company. I'll use my quarterly report to assess my current job, not just in terms of economic output but also in terms of satisfaction and career boosting.
 
-I won't the results to be _objective_ (eww!) because this is far from it, but at least I'll be able to look back to this and reflect on the values I used to evaluate my job —and the results it got.
+I won't claim the results to be _objective_ (eww!) because this is far from it, but at least I'll be able to look back to this and reflect on the values I used to evaluate my job —and the results it got.
 
 ### Index
 - [Report Structure](#report-structure)
