@@ -3,7 +3,7 @@ title:               "The Focus Quest"
 tagline:             "Exploring distraction to find focus."
 url:                 https://thefocus.quest
 baseurl:             ''
-paginate:            20
+paginate:            1000
 permalink:           pretty
 
 # Gems
