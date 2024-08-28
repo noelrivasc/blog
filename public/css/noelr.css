@@ -132,10 +132,23 @@ body {
 .page p,
 .page ul,
 .page ul li,
+.page h2,
+.page h3,
+.page strong,
 .post p,
 .post ul,
-.post ul li {
+.post ul li,
+.post h2,
+.post h3,
+.post strong {
   color: var(--very-light-gray);
+}
+
+.page code,
+.post code {
+  color: var(--lighter-blue);
+  background-color: var(--dark-gray);
+  border: 1px solid var(--light-gray);
 }
 
 .page a,
@@ -149,4 +162,21 @@ body {
 
 .related a {
   color: var(--lighter-blue);
+}
+
+tbody tr:nth-child(2n+1) td,
+tbody tr:nth-child(2n+1) th {
+  background-color: var(--dark-gray);
+  color: var(--very-light-gray);
+}
+
+tbody tr:nth-child(2n) td,
+tbody tr:nth-child(2n) th {
+  background-color: var(--medium-gray);
+  color: var(--very-light-gray);
+}
+
+thead tr th {
+  color: var(--very-light-blue);
+  background-color: var(--extra-dark-gray);
 }
