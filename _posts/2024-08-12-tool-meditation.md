@@ -2,7 +2,7 @@
 layout: post
 title: 'Tool: meditation'
 date: 2024-08-12 22:43 -0600
-summary: 'A great tool to quiet internal chatter down.'
+summary: '<em>The</em> tool to quiet internal chatter.'
 categories: tools
 ---
 
